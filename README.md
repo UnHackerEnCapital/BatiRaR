@@ -1,5 +1,5 @@
 # 🦇 BatiRaR 
-# 🧪 WinRAR Path Traversal & C2 Lab (CVE-2025-8088 & 2025-6218)
+# 🧪 WinRAR C2 Lab (CVE-2025-8088 & 2025-6218)
 
 <img width="390" height="363" alt="BatiRaR" src="https://github.com/user-attachments/assets/3b93f086-2667-4635-883f-d0c9484ea221" />
 
